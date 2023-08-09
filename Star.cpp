@@ -51,13 +51,13 @@ int main(){
 		printf("\n");  
 		*/
 		
-		
+		/*
 		//Left Peramid
 		for(int L = 0 ; L < i ; L++){
 			printf(" %d ",L );
 		};
 		printf("\n"); 
-		
+		*/
 		
 		/*
 		// Center piramid 
@@ -95,7 +95,7 @@ int main(){
 		
 	}   ; 
 	 
-	/*
+	
 //Dimond 
 	for(int i=0; i<5; i++){
 		
@@ -116,7 +116,7 @@ int main(){
 		};
 			printf("\n");
 	};
-	*/
+	
 	
 	/*
 	// Print Letter A 
